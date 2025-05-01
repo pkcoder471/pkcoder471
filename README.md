@@ -3,7 +3,7 @@
 <h3 align="center">A young and passionate computer science student with developed skills and personal attributes seeking an opportunity to imply skills learnt through my educational knowledge.</h3>
 <img align="right" src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png" alt="pklid471" width="250" />
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Kafka**
 
 - 💬 Ask me about **Mern Stack**
 
